@@ -1,0 +1,25 @@
+h2 {
+  margin-bottom: -20px;
+}
+
+#parentDiv {
+  background-color: #E4DED2;
+  border: solid black 3px;
+  width: 75%;
+  border-radius: 20px;
+  box-shadow: 10px 10px 15px 1px #aeafaf;
+  text-shadow: -2px 2px 8px #999;
+}
+
+button {
+	width: 130px;
+	height: 50px;
+	font-size: 175%;
+  font-weight: bold;
+	margin-left: 10px;
+}
+
+h1 {
+  background-color: #E4DED2;
+  border: solid black 2px;
+}
